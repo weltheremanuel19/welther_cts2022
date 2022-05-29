@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/seminar6_Composite/seminar6_Composite.iml" filepath="$PROJECT_DIR$/seminar6_Composite/seminar6_Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" filepath="$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar7_Observer_1/seminar7_Observer_1.iml" filepath="$PROJECT_DIR$/seminar7_Observer_1/seminar7_Observer_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" filepath="$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/welther_cts2022.iml" filepath="$PROJECT_DIR$/welther_cts2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo/zoo.iml" filepath="$PROJECT_DIR$/zoo/zoo.iml" />
     </modules>
