@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/G1093_Tema_Welther_Emanuel-Ricardo/G1093_Tema_Welther_Emanuel-Ricardo.iml" filepath="$PROJECT_DIR$/G1093_Tema_Welther_Emanuel-Ricardo/G1093_Tema_Welther_Emanuel-Ricardo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar8_Chain/Seminar8_Chain.iml" filepath="$PROJECT_DIR$/Seminar8_Chain/Seminar8_Chain.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitiu/exercitiu.iml" filepath="$PROJECT_DIR$/exercitiu/exercitiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2_bun/seminar2_bun.iml" filepath="$PROJECT_DIR$/seminar2_bun/seminar2_bun.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
@@ -20,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" filepath="$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar7_Observer_1/seminar7_Observer_1.iml" filepath="$PROJECT_DIR$/seminar7_Observer_1/seminar7_Observer_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" filepath="$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8_Chain/seminar8_Chain.iml" filepath="$PROJECT_DIR$/seminar8_Chain/seminar8_Chain.iml" />
       <module fileurl="file://$PROJECT_DIR$/welther_cts2022.iml" filepath="$PROJECT_DIR$/welther_cts2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo/zoo.iml" filepath="$PROJECT_DIR$/zoo/zoo.iml" />
     </modules>
